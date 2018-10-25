@@ -3,5 +3,8 @@
 <body>
 <h1>Hola Mundo</h1>
 <h2>Bienvenidos</h2>
+<h3>INTEGRANTES </h3>
+<P>Cachimuel Bryan</P>
+<p>Quezada Edgar</p>
 </body>
 </html>
